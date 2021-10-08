@@ -299,12 +299,12 @@ body{
         }
         
     .content-1{
-            height: 480px;
+            height: 500px;
         }
         
     .content-1 div{
             margin-top: 40px;
-            font-size: 1.5em;
+            font-size: 1.3em;
             line-height: 30px;
             width: 90%;
         }
